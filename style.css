@@ -180,6 +180,10 @@ footer > div:nth-child(2) div:nth-child(2) {
   form {
     width: 95%;
   }
+
+  footer > div:nth-child(2) {
+    display: grid;
+  }
   footer > div:nth-child(2) > div {
     min-width: 100%;
     flex-direction: row;
